@@ -1,0 +1,53 @@
+* {
+    border: solid black 1px;
+}
+nav {
+    text-align: center;
+    margin: 5%;
+}
+nav a {
+    text-decoration: none;
+    /* max-width: 30px; */
+    color: white;
+    padding: 1%;
+    
+}
+a {
+    max-width: 20px;
+    margin: 30px;
+}
+.orange {
+    background-color: #FF754E;
+    border-radius: 10px;
+}
+
+.blue{ 
+    background-color: #5FD3EC;
+    border-radius: 10px;
+}
+
+.yellow {
+    background-color: #FFCD6A;
+    border-radius: 10px;
+}
+.head {
+    border-radius: 50%;
+    max-width: 200px;
+    /* margin: 2%; */
+}
+/* section {
+    display: block;
+} */
+
+.heading1 {
+    display: inline;
+    float: left;
+}
+.heading2 {
+    display: inline;
+    float: right;
+    text-align: center;
+}
+.paragraph {
+    display: block;
+}
